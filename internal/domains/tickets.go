@@ -1,4 +1,4 @@
-package domain
+package domains
 
 type Ticket struct {
 	Id      string
